@@ -1,5 +1,3 @@
-# Petrol-Pump-Management-System
-Test cases and bug reports for the Petrol Pump Management System (Thuli Petroleum) web application.
 # Petrol Pump Management System (Thuli Petroleum) - QA Testing Portfolio
 
 This repository contains manual test cases and bug reports created during my QA training for the **Petrol Pump Management System (Thuli Petroleum)** web application. The focus was on verifying key functionalities and identifying critical bugs to ensure smooth operations for fuel station management.
